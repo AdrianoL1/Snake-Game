@@ -1,11 +1,13 @@
 # Snake Game
 Snake Game made with Python
 
-# Usage
-First make sure that you have [Turtle](https://docs.python.org/3/library/turtle.html#module-turtle) installed, then download or clone the project and run main.py
+![](https://github.com/Holanddez/Snake-Game/blob/main/snake_game.gif)
+
+<br>
 <br>
 
-- Gif -
+# Usage
+First make sure that you have [Turtle](https://docs.python.org/3/library/turtle.html#module-turtle) installed, then download or clone the project and run main.py
 
 <br>
 <br>
